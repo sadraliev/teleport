@@ -33,3 +33,6 @@ With "Teleport," the web content running inside the WebView can call native func
 - **Native APIs** for accessing device hardware features like camera, geolocation, and sensors.
 
 By enabling this integration, "Teleport" makes it possible for hybrid applications to offer a more native-like experience, giving web content inside the WebView access to the device's powerful capabilities.
+
+P.S:
+A space for those who think outside the box, create fearlessly, and turn ideas into reality. For innovators, artistic minds, and driven entrepreneurs
